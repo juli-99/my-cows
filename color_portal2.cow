@@ -1,0 +1,8 @@
+$the_cow = <<"EOC";
+\e[33m|\e[0m        $thoughts   ^__^    \e[34m|\e[0m
+\e[33m|\e[0m____     $thoughts  ($eyes)\\___\e[34m|\e[0m
+\e[33m|\e[0m    )\\/\\    (__)\\   \e[34m|\e[0m
+\e[33m|\e[0m--w |        $tongue ||--\e[34m|\e[0m
+\e[33m|\e[0m    ||          ||  \e[34m|\e[0m
+EOC
+
